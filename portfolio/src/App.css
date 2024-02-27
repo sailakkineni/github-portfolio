@@ -1,0 +1,13 @@
+.container {
+  font-family: 'Lato';
+}
+
+.navbar {
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background: linear-gradient(115deg, #4e54c8, #8f94fb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
